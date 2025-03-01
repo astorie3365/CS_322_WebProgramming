@@ -1,5 +1,10 @@
 body{
-    background-color: lightsteelblue;
+    margin: 75px;
+    background-color: rgb(208, 227, 250);
     color: black;
     font: 25px Garamond, serif;
+}
+img{
+    float: right;
+    margin-right: 35px;
 }
